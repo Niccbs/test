@@ -66,3 +66,5 @@ const katalog = [{
   
 
 console.log("hej")
+console.log("hihi")
+console.log("whatsup")
